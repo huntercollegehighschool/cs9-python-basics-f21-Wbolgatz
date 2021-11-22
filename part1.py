@@ -18,7 +18,10 @@ The sum of the numbers you entered is 40
 '''
 
 #code starts here
-first_value = int(input("Enter a number: "))
-second_value = int(input("Enter a second number: "))
-
-print("The sum of the numbers you entered is", first_value + second_value)
+#print enter 5 numbers 
+#first_value = int(input("Enter a number: "))
+#second_value = int(input("Enter a second number: "))
+#third_value = int(input("Enter a third number: "))
+#fourth_value = int(input("Enter a fourth_value number: "))
+#fifth_value = int(input("Enter a fifth_value number: "))
+#print("The sum of the numbers you entered is", first_value + second_value + third_value + fourth_value + fifth_value)
