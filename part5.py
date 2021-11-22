@@ -13,3 +13,6 @@ Hello, Ash Ketchum
 '''
 
 #start writing your code below
+#Name = input("Enter a word: ")
+#lastname =input ("enter a word")
+#print word + word
